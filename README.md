@@ -1,0 +1,2 @@
+# InfluenceNodeMaximization
+Graph: Influence Maximization.
