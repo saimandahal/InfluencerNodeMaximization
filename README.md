@@ -6,6 +6,7 @@ Graph: Influence Maximization. Calculating the information spread of a seed set 
 Implementation of influential maximization algorithm in the Amazon product network to determine the influential products in the graph
 #
 Code file: /code/INM.ipynb
+
 Data file: /data/amazon.txt
 
 Dataset taken from: https://snap.stanford.edu/data/#amazon
